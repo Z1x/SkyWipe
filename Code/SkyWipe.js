@@ -1,7 +1,7 @@
 // PLANE
 var bullets = [];
 var recentDamage = false;
-var scoreForNow = 500;
+var scoreForNow = 0;
 var score; //text
 var planeCrashes; //text
 //ENEMY
